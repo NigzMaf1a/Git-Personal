@@ -1,0 +1,4 @@
+Added a css script
+Added a top strip script 
+Added a footer animation script
+Added a class for the page operations
